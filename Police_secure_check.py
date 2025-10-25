@@ -10,7 +10,7 @@ def create_connection():
         connection = pymysql.connect(
             host='localhost',
             user='root',
-            password='Balanandy@22',  # ⚠️ Use .env file for security in production
+            password='Balanandy@22',
             database='securecheck',
             cursorclass=pymysql.cursors.DictCursor
         )
