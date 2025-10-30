@@ -28,8 +28,8 @@ SecureCheck is a real-time digital dashboard for police traffic stop monitoring 
 
 ---
 
-## 👨‍💻 Developed By
+## 👨‍💻 Created By
 
-**Saravana vijay M**
+**Saravana vijay M** Aspiring Data Scientist
 
 ---
