@@ -30,6 +30,6 @@ SecureCheck is a real-time digital dashboard for police traffic stop monitoring 
 
 ## 👨‍💻 Created By
 
-**Saravana vijay M** Aspiring Data Scientist
+**Saravana vijay M**
 
 ---
